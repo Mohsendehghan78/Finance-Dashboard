@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import RightMenu from "./Components/right/RightMenu";
+import LeftMenu from "./Components/left/LeftMenu";
+import Main from "./Components/main/Main";
+import TodoPortal from "./Components/right/TodoPortal";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div className=" relative flex justify-between w-full bg-Gray/100 h-[1024px] ">
+        <div>
+          <LeftMenu />
+        </div>
+        <div>
+          <Main />
+        </div>
+        <div>
+          <RightMenu />
+        </div>
+      </div>
+    </>
   );
 }
 
