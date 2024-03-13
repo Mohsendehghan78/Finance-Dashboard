@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Mohsendehghan78/Finance-Dashboard/static/css/main.e985c02c.css",
-    "main.js": "/Mohsendehghan78/Finance-Dashboard/static/js/main.cafaea8f.js",
-    "static/js/453.68693753.chunk.js": "/Mohsendehghan78/Finance-Dashboard/static/js/453.68693753.chunk.js",
-    "static/media/Amita-Bold.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Amita-Bold.a321a8580d5e68baa049.ttf",
-    "static/media/Amita-Regular.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Amita-Regular.c594822749451ab9aada.ttf",
-    "static/media/Roboto-MediumItalic.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-MediumItalic.82736aaa11c64709055f.ttf",
-    "static/media/Roboto-LightItalic.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-LightItalic.c590382422f2742d788b.ttf",
-    "static/media/Roboto-ThinItalic.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-ThinItalic.9d2ca34eae96e77c6eef.ttf",
-    "static/media/Roboto-BoldItalic.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-BoldItalic.87d61cea6fe1d235d4a8.ttf",
-    "static/media/Roboto-Italic.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-Italic.87f3afe16a8c3c370634.ttf",
-    "static/media/Roboto-Medium.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
-    "static/media/Roboto-Thin.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
-    "static/media/Roboto-Regular.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
-    "static/media/Roboto-Black.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
-    "static/media/Roboto-Light.ttf": "/Mohsendehghan78/Finance-Dashboard/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
-    "index.html": "/Mohsendehghan78/Finance-Dashboard/index.html",
-    "main.e985c02c.css.map": "/Mohsendehghan78/Finance-Dashboard/static/css/main.e985c02c.css.map",
-    "main.cafaea8f.js.map": "/Mohsendehghan78/Finance-Dashboard/static/js/main.cafaea8f.js.map",
-    "453.68693753.chunk.js.map": "/Mohsendehghan78/Finance-Dashboard/static/js/453.68693753.chunk.js.map"
+    "main.css": "/Finance-Dashboard/static/css/main.f93b5b11.css",
+    "main.js": "/Finance-Dashboard/static/js/main.4010464d.js",
+    "static/js/453.68693753.chunk.js": "/Finance-Dashboard/static/js/453.68693753.chunk.js",
+    "static/media/Amita-Bold.ttf": "/Finance-Dashboard/static/media/Amita-Bold.a321a8580d5e68baa049.ttf",
+    "static/media/Amita-Regular.ttf": "/Finance-Dashboard/static/media/Amita-Regular.c594822749451ab9aada.ttf",
+    "static/media/Roboto-MediumItalic.ttf": "/Finance-Dashboard/static/media/Roboto-MediumItalic.82736aaa11c64709055f.ttf",
+    "static/media/Roboto-LightItalic.ttf": "/Finance-Dashboard/static/media/Roboto-LightItalic.c590382422f2742d788b.ttf",
+    "static/media/Roboto-ThinItalic.ttf": "/Finance-Dashboard/static/media/Roboto-ThinItalic.9d2ca34eae96e77c6eef.ttf",
+    "static/media/Roboto-BoldItalic.ttf": "/Finance-Dashboard/static/media/Roboto-BoldItalic.87d61cea6fe1d235d4a8.ttf",
+    "static/media/Roboto-Italic.ttf": "/Finance-Dashboard/static/media/Roboto-Italic.87f3afe16a8c3c370634.ttf",
+    "static/media/Roboto-Medium.ttf": "/Finance-Dashboard/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Thin.ttf": "/Finance-Dashboard/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "static/media/Roboto-Regular.ttf": "/Finance-Dashboard/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Black.ttf": "/Finance-Dashboard/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Roboto-Light.ttf": "/Finance-Dashboard/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "index.html": "/Finance-Dashboard/index.html",
+    "main.f93b5b11.css.map": "/Finance-Dashboard/static/css/main.f93b5b11.css.map",
+    "main.4010464d.js.map": "/Finance-Dashboard/static/js/main.4010464d.js.map",
+    "453.68693753.chunk.js.map": "/Finance-Dashboard/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e985c02c.css",
-    "static/js/main.cafaea8f.js"
+    "static/css/main.f93b5b11.css",
+    "static/js/main.4010464d.js"
   ]
 }
