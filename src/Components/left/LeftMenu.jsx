@@ -29,11 +29,11 @@ export default function LeftMenu() {
   return (
     <div
       style={sidebarStutus ? { width: "185px" } : { width: "100px" }}
-      className=" fixed left-0 top-0   h-screen transition-all delay-20 duration-75"
+      className=" fixed left-0 top-0 h-screen transition-all delay-20 duration-75"
     >
       <div
         style={sidebarStutus ? { width: "169px " } : { width: "84px" }}
-        className=" fixed left-0 top- h-screen bg-Brand/700 px-8 py-[22px] text-white transition-all delay-20  duration-75 "
+        className=" fixed left-0 top-0 h-screen bg-Brand/700 px-8 py-[22px] text-white transition-all delay-20  duration-75 "
       >
         <div className="flex justify-center items-center mb-20">
           <h1 className=" font-RAmitaBold font-bold text-xl  ">Drop</h1>

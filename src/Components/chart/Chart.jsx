@@ -12,9 +12,10 @@ import {
 
 export default function Chart({ data, title, grid }) {
   return (
-    <div className=" flex flex-col justify-between absolute right-0 w-[70%]  h-[18rem] text-Gray/900 bg-white rounded-3xl mt-6 py-2 font-RobotoMedium font-normal text-[9px] shadow-md ">
-      
-      <h1 className="pl-8  mb-6 font-RobotoBlack font-medium text-xl">{title}</h1>
+    <div className=" flex flex-col justify-between absolute right-0 w-[35rem]  h-[18rem] text-Gray/900 bg-white rounded-3xl mt-6 py-2 font-RobotoMedium font-normal text-[9px] shadow-md ">
+      <h1 className="pl-8  mb-6 font-RobotoBlack font-medium text-xl">
+        {title}
+      </h1>
       <ResponsiveContainer width="100%" height="100%" aspect={3}>
         <LineChart
           width={500}

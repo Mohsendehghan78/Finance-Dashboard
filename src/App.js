@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className=" relative flex justify-between  max-w-[1366px] bg-Gray/100 h-[1024px] ">
-        <div>
+        <div >
           <LeftMenu />
         </div>
         <div>
