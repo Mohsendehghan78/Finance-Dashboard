@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Finance-Dashboard/static/css/main.c35fa7bc.css",
-    "main.js": "/Finance-Dashboard/static/js/main.bd075eed.js",
+    "main.css": "/Finance-Dashboard/static/css/main.41bfeecc.css",
+    "main.js": "/Finance-Dashboard/static/js/main.e1731b35.js",
     "static/js/453.68693753.chunk.js": "/Finance-Dashboard/static/js/453.68693753.chunk.js",
     "static/media/Amita-Bold.ttf": "/Finance-Dashboard/static/media/Amita-Bold.a321a8580d5e68baa049.ttf",
     "static/media/Amita-Regular.ttf": "/Finance-Dashboard/static/media/Amita-Regular.c594822749451ab9aada.ttf",
@@ -16,12 +16,12 @@
     "static/media/Roboto-Black.ttf": "/Finance-Dashboard/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
     "static/media/Roboto-Light.ttf": "/Finance-Dashboard/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
     "index.html": "/Finance-Dashboard/index.html",
-    "main.c35fa7bc.css.map": "/Finance-Dashboard/static/css/main.c35fa7bc.css.map",
-    "main.bd075eed.js.map": "/Finance-Dashboard/static/js/main.bd075eed.js.map",
+    "main.41bfeecc.css.map": "/Finance-Dashboard/static/css/main.41bfeecc.css.map",
+    "main.e1731b35.js.map": "/Finance-Dashboard/static/js/main.e1731b35.js.map",
     "453.68693753.chunk.js.map": "/Finance-Dashboard/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c35fa7bc.css",
-    "static/js/main.bd075eed.js"
+    "static/css/main.41bfeecc.css",
+    "static/js/main.e1731b35.js"
   ]
 }
