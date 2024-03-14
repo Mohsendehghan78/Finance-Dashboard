@@ -6,7 +6,7 @@ import TodoPortal from "./Components/right/TodoPortal";
 function App() {
   return (
     <>
-      <div className=" relative flex justify-between w-full bg-Gray/100 h-[1024px] ">
+      <div className=" relative flex justify-between  max-w-[1366px] bg-Gray/100 h-[1024px] ">
         <div>
           <LeftMenu />
         </div>
