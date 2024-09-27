@@ -2,9 +2,9 @@ import React, { useEffect, useState } from "react";
 
 export default function InfoCatd({ infosData }) {
   return (
-    <div>
+    <div className="block lg:flex xl:block 2xl:flex mr-10 gap-10  justify-between w-full">
       {infosData.map((data) => (
-        <div className=" flex items-center  w-52 h-32 my-6 bg-white rounded-3xl shadow-md p-6 ">
+        <div className=" flex items-center justify-center xl:w-52 2xl:w-full h-32 my-6 bg-white rounded-3xl shadow-md p-6 ">
           <div className= " flex flex-col gap-y-4 font-RobotoBlack text-lg font-bold text-Gray/900 mr-2  ">
             <h1 className=" text-nowrap" >{data.title}</h1>
             <h1 className=" font-bold text-[40px]">{data.count}</h1>
