@@ -12,7 +12,7 @@ export default function Main() {
   const[infosData,setInfosData]=useState(infos)
   
   return (
-    <div className="">
+    <div className=" md:w-full w-[50%]">
       <SelectBox />
       <CartMoney />
       <div className="xl:flex xl:flex-row-reverse">

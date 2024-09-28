@@ -7,11 +7,14 @@ import Main from "../../Components/main/Main";
 function Dashboard() {
   return (
     // <div className=" relative flex justify-between  max-w-[1366px] bg-Gray/100 h-[1024px] ">
-    <div className=" flex w-[100%] justify-between mt-4 ">
+    <>
+      
+      <div className=" flex w-[100%] justify-around mt-4 ">
       <Menu />
-      <Main />
-      <TodoList />
-    </div>
+        <Main />
+        <TodoList />
+      </div>
+    </>
   );
 }
 
